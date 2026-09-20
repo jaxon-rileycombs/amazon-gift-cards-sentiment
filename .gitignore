@@ -1,0 +1,10 @@
+.DS_Store
+*.gz
+*.log
+.env
+.env.*
+!*.env.example
+outputs/*progress.json
+outputs/gift-cards-first-100-*.json
+outputs/gift-cards-sentiment-dashboard.html
+work/NRC-emotion-lexicon-v0.92.txt
