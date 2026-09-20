@@ -67,4 +67,8 @@ The main implementation issue was chart visibility: very small chart values can 
 
 ## Screenshot
 
-The final interface is the offline [`gift-cards-balanced-three-class-dashboard.html`](gift-cards-balanced-three-class-dashboard.html). Automated capture of the local `file://` page was blocked by the execution environment, so no genuine screenshot is included rather than fabricating one.
+The final interface is the offline [`gift-cards-balanced-three-class-dashboard.html`](gift-cards-balanced-three-class-dashboard.html).
+
+![Dashboard overview: balanced metrics, class accuracy, and confusion matrix](assets/dashboard-overview.png)
+
+![Dashboard detail: descriptive charts, filters, and review evidence](assets/dashboard-detail.png)
