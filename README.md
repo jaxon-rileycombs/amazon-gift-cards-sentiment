@@ -1,5 +1,7 @@
 # Amazon Gift Cards review sentiment classifier
 
+> **Live dashboard:** [Open the interactive three-class sentiment report](https://jaxon-rileycombs.github.io/amazon-gift-cards-sentiment/)
+
 ## What this project does
 
 This evaluation classifies Amazon Gift Cards review **title + text only** as `POSITIVE`, `NEUTRAL`, or `NEGATIVE`, then checks that blind prediction against the held-out star-rating class:
